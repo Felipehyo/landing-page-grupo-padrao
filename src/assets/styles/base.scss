@@ -1,0 +1,68 @@
+//Colors
+$primary-green: #c1d666;
+$primary-red: #e04938;
+$primary-brown: #c9b8a8;
+$primary-blue: #394756;
+$primary-dark-blue: #212c40;
+$primary-grey: #3a3a3a;
+
+$bar-yellow: #f3d14e;
+$bar-blue: #9db8d5;
+$bar-green: #7f9a4e;
+$bar-red: #c74447;
+
+//Fonts
+@font-face {
+    font-family: brandonBold;
+    src: url(../fonts/BrandonGrotesque-Bold.ttf)
+}
+
+@font-face {
+    font-family: brandonMedium;
+    src: url(../fonts/BrandonGrotesque-Medium.ttf)
+}
+
+@font-face {
+    font-family: robotoBlack;
+    src: url(../fonts/Roboto-Black.ttf)
+}
+
+@font-face {
+    font-family: robotoBold;
+    src: url(../fonts/Roboto-Bold.ttf)
+}
+
+@font-face {
+    font-family: robotoLight;
+    src: url(../fonts/Roboto-Light.ttf)
+}
+
+@font-face {
+    font-family: robotoMedium;
+    src: url(../fonts/Roboto-Medium.ttf)
+}
+
+@font-face {
+    font-family: robotoRegular;
+    src: url(../fonts/Roboto-Regular.ttf)
+}
+
+@font-face {
+    font-family: robotoThin;
+    src: url(../fonts/Roboto-Thin.ttf)
+}
+
+@font-face {
+    font-family: robotoCondensedBold;
+    src: url(../fonts/RobotoCondensed-Bold.ttf)
+}
+
+@font-face {
+    font-family: robotoCondensedLight;
+    src: url(../fonts/RobotoCondensed-Light.ttf)
+}
+
+@font-face {
+    font-family: robotoCondensedRegular;
+    src: url(../fonts/RobotoCondensed-Regular.ttf)
+}
